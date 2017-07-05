@@ -1,6 +1,4 @@
 """
-This example uses docopt with the built in cmd module to demonstrate an
-interactive command application.
 Usage:
     (News) view_sources   
     (News) get_news <source>   
