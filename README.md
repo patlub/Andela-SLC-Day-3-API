@@ -1,20 +1,20 @@
 
-## Getting Started
+# Getting Started
 
 ###### You can start by cloning the project:
 `git clone https://github.com/patlub/Andel-SLC-Day-3-API.git`
 
 
-## Prerequisites
-#### Python 3
+# Prerequisites
+### Python 3
 Working installation of python 3. if you don't, you can refer to this
 [Intall Python 3](https://www.python.org/downloads/)
 
-#### docopt
+### docopt
 
 if you don't have it, do `pip install docopt`
 
-## Usage
+# Usage
 Navigate into the cloned directory and run main.py
 
 `python main.py -i`
@@ -68,7 +68,7 @@ Article: I'd wake up my computer and discover, to my dismay, that it had not. I 
 
 ```
 
-## Running the Tests
+# Running the Tests
 
 Navigate into the HttpClient directory and type:
 
@@ -79,4 +79,4 @@ You should see:
 
 `All test passed`
 
-## Enjoy.
+# Enjoy.
